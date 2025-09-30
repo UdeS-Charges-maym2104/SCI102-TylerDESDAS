@@ -2,3 +2,9 @@ id_rsa.pem
 reponse.txt
 *.sig
 secret.txt
+
+id_rsa
+id_rsa.pub
+reponse_encryptee.txt
+reponse_signee.txt
+secret_decrypte.txt
